@@ -1,9 +1,6 @@
 # Custom
 *logs/
 data/
-afhq/
-mnistm/
-ckpt/
 external/
 
 # Byte-compiled / optimized / DLL files
